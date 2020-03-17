@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>Z_PERSON</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Person Class ABS</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_PERSON</CLSNAME>
+     <CMPNAME>GET_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Returns Username</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_PERSON</CLSNAME>
+     <CMPNAME>LV_ANSWER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Answer</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_PERSON</CLSNAME>
+     <CMPNAME>LV_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Local Username</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>Z_PERSON</CLSNAME>
+     <CMPNAME>SUBTRAC</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Returns ouput of subtraction</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

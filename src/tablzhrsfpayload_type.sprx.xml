@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZHRSFPAYLOAD_TYPE</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZHRSFPAYLOAD_TYPE</OBJ_NAME_M>
+     <HASH_ID>CEF5C2DEB9367CB653D6046B975E64712199057D</HASH_ID>
+     <ID>&lt;type&gt; payloadType http://www.example.org/GenericOdataRead/ http://www.example.org/GenericOdataRead/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>payloadType</IFR_NAME>
+     <IFR_NSPCE>http://www.example.org/GenericOdataRead/</IFR_NSPCE>
+     <IFR_GNSPCE>http://www.example.org/GenericOdataRead/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZHRSF</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://www.example.org/GenericOdataRead/</X-ML_NSPCE>
+     <X-ML_NAME>payloadType</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZHRSFPAYLOAD_TYPE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>RETURN_VALUE</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>RETURN_VALUE</OBJ_NAME2>
+     <ID>&lt;element&gt; ReturnValue &lt;type&gt; payloadType http://www.example.org/GenericOdataRead/ http://www.example.org/GenericOdataRead/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>ReturnValue</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>RETURN_VALUE</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZHRSFPAYLOAD_TYPE</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZHRSFPAYLOAD_TYPE</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZHRSFPAYLOAD_TYPE</OBJ_NAME2>
+     <ID>&lt;type&gt; payloadType http://www.example.org/GenericOdataRead/ http://www.example.org/GenericOdataRead/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>payloadType</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZHRSFPAYLOAD_TYPE</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
